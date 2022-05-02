@@ -1,0 +1,21 @@
+#navbar{
+    display: flex
+}
+#sidebar{
+    display: flex;
+    flex-direction: column;
+}
+#inp{
+    width: 80%;
+    border: 1px solid black;
+}
+#home{
+    width: 20%;
+   
+}
+#search_input{
+    width: 100%;
+}
+#container{
+    width:70%;
+}
